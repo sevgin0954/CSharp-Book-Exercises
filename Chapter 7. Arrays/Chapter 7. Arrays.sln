@@ -3,31 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.max sequence of consecutive equal elements", "4. max sequence\04.max sequence of consecutive equal elements.csproj", "{00D49986-05C4-4E4B-9382-6410D6013FA4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.max sequence of consecutive increasing elements", "5. max increasing sequence\05.max sequence of consecutive increasing elements.csproj", "{0848C452-7318-4F60-8DDE-62243927CC1E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.max increasing sequence", "6. max increasing non-consecutively seq\06.max increasing sequence.csproj", "{5438C594-82E6-48B2-B99C-D1B5DC0E5D07}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.max sum of k-consecutive elements", "7\07.max sum of k-consecutive elements.csproj", "{FEBE576A-2731-435F-B4D9-ACFBC4CFCEF5}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. selection sort", "8. selection sort\08. selection sort.csproj", "{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.subsequence of numbers with maximal sum", "9. max sequence sum\09.subsequence of numbers with maximal sum.csproj", "{4A24D7E5-8F20-42BC-A946-2B4EA54D870D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. most frequent element in arr", "10. most frequent num in arr\10. most frequent element in arr.csproj", "{67563323-45AE-4BA9-912E-A71AF9571E16}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. find sequence sum equal to num", "11. sequence sum equal to num\11. find sequence sum equal to num.csproj", "{65DD4FA3-CD0A-40E8-B95D-BE408F53B811}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.A square matrices", "12.A\12.A square matrices.csproj", "{089B8520-E347-4EB6-A1D0-BC7A36C2C502}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.B square matrices", "12.B\12.B square matrices.csproj", "{B414FC8E-3522-4EB9-882D-9136B4B86438}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Find bigest NxN part in matrix", "13\13.Find bigest NxN part in matrix.csproj", "{E99B6931-3998-4C91-B1C9-89D6272C301E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.longest sequence of equal strings", "14.longest sequence of equal strings\14.longest sequence of equal strings.csproj", "{7EA9E14D-DC92-490E-AC07-CB1DD216797A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Word to letters indexes in arr", "15.Word to leter index in arr\15.Word to letters indexes in arr.csproj", "{4117656E-A266-4406-A14E-600085E01FCD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.binary search", "16.binary search\16.binary search.csproj", "{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}"
 EndProject
@@ -35,15 +11,39 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.merge sort", "17.merge s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.quick sort", "18.quick sort\18.quick sort.csproj", "{D855FAA1-C002-4997-AA70-F38A98EDCBA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.find all prime nums", "19.PrimeNums\19.find all prime nums.csproj", "{B93AC663-48D5-4E50-A089-FFFF122BDDE4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.subset sum (brute force)", "20.Find subset with given sum\20.subset sum (brute force).csproj", "{18FC4C81-0675-431A-B7CE-19667A6ADBBB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.Find n-subset sum", "21.Find n-subset sum\21.Find n-subset sum.csproj", "{16913343-FAAD-445A-80E0-0CFF5EF1B650}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.n - nested loops from 1 to k", "23.n - nested loops from 1 to k\23.n - nested loops from 1 to k.csproj", "{1E2149BC-1727-40AD-AB4C-589A1B9F8361}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.generate all combos k from 1 to n", "24.generate all combos from 1 to n\24.generate all combos k from 1 to n.csproj", "{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.max sequence of consecutive equal elements", "04.max sequence of consecutive equal elements\04.max sequence of consecutive equal elements.csproj", "{00D49986-05C4-4E4B-9382-6410D6013FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.max sequence of consecutive increasing elements", "05.max seq of consecutive increasing elements\05.max sequence of consecutive increasing elements.csproj", "{0848C452-7318-4F60-8DDE-62243927CC1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.max increasing sequence", "06.max increasing sequence\06.max increasing sequence.csproj", "{5438C594-82E6-48B2-B99C-D1B5DC0E5D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.max sum of k-consecutive elements", "07.max sum of k-consecutive elements\07.max sum of k-consecutive elements.csproj", "{FEBE576A-2731-435F-B4D9-ACFBC4CFCEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.selection sort", "8.selection sort\08.selection sort.csproj", "{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.subsequence of numbers with maximal sum", "09.subsequence of numbers with maximal sum\09.subsequence of numbers with maximal sum.csproj", "{4A24D7E5-8F20-42BC-A946-2B4EA54D870D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. most frequent element in arr", "10. most frequent element in arr\10. most frequent element in arr.csproj", "{67563323-45AE-4BA9-912E-A71AF9571E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.find sequence sum equal to num", "11.find sequence sum equal to num\11.find sequence sum equal to num.csproj", "{65DD4FA3-CD0A-40E8-B95D-BE408F53B811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.A square matrices", "12.A square matrices\12.A square matrices.csproj", "{089B8520-E347-4EB6-A1D0-BC7A36C2C502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.B square matrices", "12.B square matrices\12.B square matrices.csproj", "{B414FC8E-3522-4EB9-882D-9136B4B86438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Find bigest NxN part in matrix", "13.Find bigest NxN part in matrix\13.Find bigest NxN part in matrix.csproj", "{E99B6931-3998-4C91-B1C9-89D6272C301E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Word to letters indexes in arr", "15.Word to letters indexes in arr\15.Word to letters indexes in arr.csproj", "{4117656E-A266-4406-A14E-600085E01FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.find all prime nums", "19.find all prime nums\19.find all prime nums.csproj", "{B93AC663-48D5-4E50-A089-FFFF122BDDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.subset sum (brute force)", "20.subset sum (brute force)\20.subset sum (brute force).csproj", "{18FC4C81-0675-431A-B7CE-19667A6ADBBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +51,34 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{00D49986-05C4-4E4B-9382-6410D6013FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{00D49986-05C4-4E4B-9382-6410D6013FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00D49986-05C4-4E4B-9382-6410D6013FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -95,26 +123,10 @@ Global
 		{E99B6931-3998-4C91-B1C9-89D6272C301E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E99B6931-3998-4C91-B1C9-89D6272C301E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E99B6931-3998-4C91-B1C9-89D6272C301E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EA9E14D-DC92-490E-AC07-CB1DD216797A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4117656E-A266-4406-A14E-600085E01FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4117656E-A266-4406-A14E-600085E01FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4117656E-A266-4406-A14E-600085E01FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4117656E-A266-4406-A14E-600085E01FCD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B894823D-2108-4F0F-A9A4-D2E6D62DF73F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{923EAFCD-A345-4A63-8475-76406ECB03BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D855FAA1-C002-4997-AA70-F38A98EDCBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B93AC663-48D5-4E50-A089-FFFF122BDDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B93AC663-48D5-4E50-A089-FFFF122BDDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93AC663-48D5-4E50-A089-FFFF122BDDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -123,18 +135,6 @@ Global
 		{18FC4C81-0675-431A-B7CE-19667A6ADBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18FC4C81-0675-431A-B7CE-19667A6ADBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18FC4C81-0675-431A-B7CE-19667A6ADBBB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16913343-FAAD-445A-80E0-0CFF5EF1B650}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E2149BC-1727-40AD-AB4C-589A1B9F8361}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E350FA17-8B1D-4CE6-87E4-8DA3B65070BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
