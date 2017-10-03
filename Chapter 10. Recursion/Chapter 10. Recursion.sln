@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.simulate n-nested loops 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.generates all n-subsets", "04.generates all n-subsets\04.generates all n-subsets.csproj", "{48F2773A-DE66-4062-B3E9-F07FACB8B5A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.print all folders and files", "14.print all folders and files\14.print all folders and files.csproj", "{1CFD8F50-8B75-4477-B3D9-91067B82906A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{48F2773A-DE66-4062-B3E9-F07FACB8B5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48F2773A-DE66-4062-B3E9-F07FACB8B5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48F2773A-DE66-4062-B3E9-F07FACB8B5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFD8F50-8B75-4477-B3D9-91067B82906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFD8F50-8B75-4477-B3D9-91067B82906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFD8F50-8B75-4477-B3D9-91067B82906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFD8F50-8B75-4477-B3D9-91067B82906A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
