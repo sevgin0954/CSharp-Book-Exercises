@@ -25,8 +25,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.max increasing sequence"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.max sum of k-consecutive elements", "07.max sum of k-consecutive elements\07.max sum of k-consecutive elements.csproj", "{FEBE576A-2731-435F-B4D9-ACFBC4CFCEF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.selection sort", "8.selection sort\08.selection sort.csproj", "{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.subsequence of numbers with maximal sum", "09.subsequence of numbers with maximal sum\09.subsequence of numbers with maximal sum.csproj", "{4A24D7E5-8F20-42BC-A946-2B4EA54D870D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. most frequent element in arr", "10. most frequent element in arr\10. most frequent element in arr.csproj", "{67563323-45AE-4BA9-912E-A71AF9571E16}"
@@ -44,6 +42,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.find all prime nums", "19.find all prime nums\19.find all prime nums.csproj", "{B93AC663-48D5-4E50-A089-FFFF122BDDE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.subset sum (brute force)", "20.subset sum (brute force)\20.subset sum (brute force).csproj", "{18FC4C81-0675-431A-B7CE-19667A6ADBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.selection sort", "08.selection sort\08.selection sort.csproj", "{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,10 +95,6 @@ Global
 		{FEBE576A-2731-435F-B4D9-ACFBC4CFCEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBE576A-2731-435F-B4D9-ACFBC4CFCEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBE576A-2731-435F-B4D9-ACFBC4CFCEF5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4A24D7E5-8F20-42BC-A946-2B4EA54D870D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4A24D7E5-8F20-42BC-A946-2B4EA54D870D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A24D7E5-8F20-42BC-A946-2B4EA54D870D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -135,6 +131,10 @@ Global
 		{18FC4C81-0675-431A-B7CE-19667A6ADBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18FC4C81-0675-431A-B7CE-19667A6ADBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18FC4C81-0675-431A-B7CE-19667A6ADBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289B5762-DB3E-4BF7-B89B-7B9A5C3E2CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
